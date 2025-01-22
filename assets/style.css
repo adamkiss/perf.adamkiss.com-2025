@@ -74,14 +74,7 @@ abbr {
 /* Speedlify specific styles */
 .speedlify-hed {
 	text-align: center;
-	font-size: 2em;
-	text-transform: lowercase;
-	font-style: italic;
-}
-@media (min-width: 37.5em) { /* 600px */
-	.speedlify-hed {
-		font-size: 3em;
-	}
+	font-weight: normal;
 }
 .speedlify-subhed {
 	padding: 0 2em;
@@ -101,7 +94,7 @@ abbr {
 }
 .leaderboard {
 	width: 100%;
-	margin: 5em auto;
+	margin: 2em auto 5em;
 	max-width: 100rem; /* 1600px /16 */
 }
 .leaderboard-directlink {
