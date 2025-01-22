@@ -18,5 +18,6 @@ module.exports = {
 		"https://2024.besttour.sk/",
 		"https://chcemvino.sk/",
 		"https://chcemvinonaevent.sk/",
+        "https://matrix-printer.adamkiss.com/",
 	]
 };
